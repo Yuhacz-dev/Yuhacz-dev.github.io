@@ -8,67 +8,36 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; shitposting</title>
-	<atom:link href="https://www.shitpostingme.me/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.shitpostingme.me/</link>
+	<title>Uncategorized &#8211; Shitposting</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 06 Nov 2022 20:50:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Nov 2022 22:01:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
-
-<image>
-	<url>https://www.shitpostingme.me/wp-content/uploads/2022/11/cropped-Dzien_1-152.00_08_08_25.Still002-1-32x32.png</url>
-	<title>Uncategorized &#8211; shitposting</title>
-	<link>https://www.shitpostingme.me/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
-		<title>Post 2</title>
-		<link>https://www.shitpostingme.me/post-2/</link>
-					<comments>https://www.shitpostingme.me/post-2/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 06 Nov 2022 20:44:10 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.shitpostingme.me/?p=20</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
-<video class="wp-video-shortcode" id="video-20-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.shitpostingme.me/wp-content/uploads/2022/11/OREBRO-by-NIGHT.mp4?_=1" /><a href="https://www.shitpostingme.me/wp-content/uploads/2022/11/OREBRO-by-NIGHT.mp4">https://www.shitpostingme.me/wp-content/uploads/2022/11/OREBRO-by-NIGHT.mp4</a></video></div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.shitpostingme.me/post-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		<enclosure url="https://www.shitpostingme.me/wp-content/uploads/2022/11/OREBRO-by-NIGHT.mp4" length="48299530" type="video/mp4" />
-
-			</item>
-		<item>
 		<title>Post 1</title>
-		<link>https://www.shitpostingme.me/post-1/</link>
-					<comments>https://www.shitpostingme.me/post-1/#respond</comments>
+		<link>/post-1/</link>
+					<comments>/post-1/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 06 Nov 2022 20:41:57 +0000</pubDate>
+		<pubDate>Sun, 06 Nov 2022 21:25:30 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.shitpostingme.me/?p=13</guid>
+		<guid isPermaLink="false">/?p=7</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[eee makarena]]></description>
 										<content:encoded><![CDATA[
-<div style="width: 640px;" class="wp-video"><video class="wp-video-shortcode" id="video-13-2" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.shitpostingme.me/wp-content/uploads/2022/11/essa.mp4?_=2" /><a href="https://www.shitpostingme.me/wp-content/uploads/2022/11/essa.mp4">https://www.shitpostingme.me/wp-content/uploads/2022/11/essa.mp4</a></video></div>
+<p>eee makarena</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.shitpostingme.me/post-1/feed/</wfw:commentRss>
+					<wfw:commentRss>/post-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://www.shitpostingme.me/wp-content/uploads/2022/11/essa.mp4" length="4611703" type="video/mp4" />
-
+		
 			</item>
 	</channel>
 </rss>

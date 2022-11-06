@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for shitposting	</title>
-	<atom:link href="https://www.shitpostingme.me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.shitpostingme.me/</link>
+	Comments for Shitposting	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 06 Nov 2022 20:50:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Nov 2022 22:01:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

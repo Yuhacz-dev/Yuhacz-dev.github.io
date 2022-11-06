@@ -483,8 +483,8 @@ a {
 -------------------------------------------------------------- */
 @font-face {
   font-family: 'Genericons';
-  src: url("https://www.shitpostingme.me/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.eot");
-  src: url("https://www.shitpostingme.me/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.eot#iefix") format("embedded-opentype"), url("https://www.shitpostingme.me/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.woff") format("woff"), url("https://www.shitpostingme.me/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.ttf") format("truetype"), url("https://www.shitpostingme.me/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.svg#genericonsregular") format("svg");
+  src: url("/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.eot");
+  src: url("/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.eot#iefix") format("embedded-opentype"), url("/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.woff") format("woff"), url("/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.ttf") format("truetype"), url("/wp-content/themes/videoshare/genericons/font/genericons-regular-webfont.svg#genericonsregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* Genericons */
@@ -905,10 +905,10 @@ a {
       #featured-content .owl-carousel .owl-nav button.owl-next:before {
         font-size: 24px; }
     #featured-content .owl-carousel .owl-nav button.owl-prev {
-      background-image: url("https://www.shitpostingme.me/wp-content/themes/videoshare/assets/img/arrow-left-white.png");
+      background-image: url("/wp-content/themes/videoshare/assets/img/arrow-left-white.png");
       left: 0; }
     #featured-content .owl-carousel .owl-nav button.owl-next {
-      background-image: url("https://www.shitpostingme.me/wp-content/themes/videoshare/assets/img/arrow-right-white.png");
+      background-image: url("/wp-content/themes/videoshare/assets/img/arrow-right-white.png");
       right: 0; }
   #featured-content .owl-theme .owl-dots {
     -webkit-tap-highlight-color: transparent;
@@ -1134,7 +1134,7 @@ a {
     text-overflow: ellipsis;
     white-space: nowrap; }
     .breadcrumbs .breadcrumbs-nav a {
-      background: url("https://www.shitpostingme.me/wp-content/themes/videoshare/assets/img/arrow-right.png") no-repeat right center;
+      background: url("/wp-content/themes/videoshare/assets/img/arrow-right.png") no-repeat right center;
       background-size: 7px 7px;
       color: #999;
       padding-right: 14px;
@@ -2776,7 +2776,7 @@ input[type="button"],
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("https://www.shitpostingme.me/wp-content/themes/videoshare/assets/img/owl.video.play.png") no-repeat;
+  background: url("/wp-content/themes/videoshare/assets/img/owl.video.play.png") no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
